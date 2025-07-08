@@ -11,7 +11,7 @@
     <h1>WELLCOME TO MY FIRST WEBSITE :33</h1>
     <h1>Máy Tính Đơn Giản</h1>
     <div class="calculator">
-<input type="text" class="display" id="display" readonly>
+      <input type="text" class="display" id="display" readonly>
       <div class="buttons">
       <button>C</button>
       <button>←</button>
