@@ -39,8 +39,7 @@
       </div>
     </div>
   </div>
-</body>
-<script>
+  <script>
   const display = document.getElementById('display');
   const buttons = document.querySelectorAll('.buttons button');
 
@@ -62,5 +61,7 @@
     });
   });
 </script>
+</body>
+
 
 </html>
