@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="calculator.css" />
 </head>
 <body>
+  <p>WELLCOME TO MY FIRST WEBSITE <3</p>
   <div class="calculator">
     <input type="text" class="display" id="display" disabled />
     <div class="buttons">
