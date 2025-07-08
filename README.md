@@ -1,17 +1,18 @@
-# may-tinh
 <!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Máy tính bỏ túi</title>
-  <link rel="stylesheet" href="calculator.css" />
+  <link rel="stylesheet" href="calculator.css" />  
 </head>
 <body>
-  <p>WELLCOME TO MY FIRST WEBSITE <3</p>
-  <div class="calculator">
-    <input type="text" class="display" id="display" disabled />
-    <div class="buttons">
+   <div class="container">
+    <h1>WELLCOME TO MY FIRST WEBSITE :33</h1>
+    <h1>Máy Tính Đơn Giản</h1>
+    <div class="calculator">
+      <input type="text" class="display" readonly>
+      <div class="buttons">
       <button>C</button>
       <button>←</button>
       <button>%</button>
@@ -35,6 +36,7 @@
       <button>0</button>
       <button>.</button>
       <button>=</button>
+      </div>
     </div>
   </div>
 </body>
